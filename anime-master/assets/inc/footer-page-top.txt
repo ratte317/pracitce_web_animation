@@ -1,0 +1,10 @@
+<!-- [[[ NTTDATAJPN-FOOTER-PAGE-TOP-AREA ]]] -->
+<div id="nttdatajpn-footer-page-top-area" class="nttdatajpn-structure">
+<div class="nttdatajpn-structure-content">
+<ul id="nttdatajpn-footer-page-top">
+<!-- <li><a href="#nttdatajpn-header-area">ページの先頭へ戻る</a></li>-->
+<li><a href="#nttdatajpn-heading-top-area">ページの先頭へ戻る</a></li>
+</ul>
+<!-- /nttdatajpn-structure-content --></div>
+<!-- /nttdatajpn-structure --></div>
+<!-- /[[[ NTTDATAJPN-FOOTER-PAGE-TOP-AREA ]]] -->

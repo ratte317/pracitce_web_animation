@@ -1,0 +1,10 @@
+﻿<nav id="nttdatajpn-local-nav">
+<header id="nttdatajpn-local-nav-header">
+<h1><a href="/solution/index.html">ソリューション&amp;プロダクト</a></h1>
+</header>
+<ul>
+<li><a href="/solution/index.html">一覧から探す</a></li>
+<li><a href="/solution/search.html#search_keyword">キーワードから探す</a></li>
+<li><a href="/solution/search.html#search_type">ジャンル・業種から探す</a></li>
+</ul>
+</nav>

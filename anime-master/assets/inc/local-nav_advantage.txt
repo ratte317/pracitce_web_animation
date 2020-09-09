@@ -1,0 +1,13 @@
+<nav id="nttdatajpn-local-nav">
+<header id="nttdatajpn-local-nav-header">
+<h1><a href="/advantage/index.html">NTTデータCCSについて</a></h1>
+</header>
+<ul>
+<li><a href="/advantage/index.html">NTTデータCCSのあゆみ</a></li>
+<li class="li_2line"><a href="/advantage/section.html">NTTデータCCSの<br>2つのセクション</a></li>
+<li class="li_2line"><a href="/advantage/support.html">あれも？これも？NTTデータCCSの技術が支えています</a></li>
+<li class="li_2line"><a href="/advantage/person.html">NTTデータCCSの「中の人」<br>に聞いてみよう</a></li>
+<li><a href="/advantage/intro.html">NTTデータCCSの技術紹介</a></li>
+<li><a href="/advantage/goal.html">NTTデータCCSが目指す場所</a></li>
+</ul>
+</nav>

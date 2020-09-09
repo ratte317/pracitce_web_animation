@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* =========== global-nav current =========== */
+ 
+.home ul#nttdatajpn-global-nav li.home a,
+.solution ul#nttdatajpn-global-nav li.solution a,
+.advantage ul#nttdatajpn-global-nav li.advantage a,
+.company ul#nttdatajpn-global-nav li.company a,
+.company_group ul#nttdatajpn-global-nav li.company_group a,
+.recruit ul#nttdatajpn-global-nav li.recruit a,
+.contact ul#nttdatajpn-global-nav li.contact a
+ {
+  background: #6485c1 !important;
+  color: #fff;
+
+} 
+
+
+.lnav1 #nttdatajpn-local-nav ul li.nttdatajpn-local-nav-pseudo-opened > a,
+.lnav1 #nttdatajpn-local-nav ul li.nttdatajpn-local-nav-pseudo-opened > em a {
+  background: #6485c1 !important;
+  color: #fff;
+}
+
+.lnav1 #nttdatajpn-local-nav ul li.nttdatajpn-local-nav-pseudo-opened a,
+.lnav1 #nttdatajpn-local-nav ul li.nttdatajpn-local-nav-pseudo-opened em a {
+  /*for ie6*/
+  _background: #6485c1 !important;
+  _color: #fff;
+}
+
+.lnav1 #nttdatajpn-local-nav ul li.nttdatajpn-local-nav-pseudo-opened ul li a,
+.lnav1 #nttdatajpn-local-nav ul li.nttdatajpn-local-nav-pseudo-opened ul li em a {
+  /*for ie6*/
+  _color: #000;
+  _background:none !important;
+  _background: url(../img/local_nav_dashed_border.png) no-repeat 0% 0% !important;
+}
+
+
+.lnav1 #nttdatajpn-local-nav ul li.nttdatajpn-local-nav-pseudo-opened ul li a:hover {
+  /*for ie6 */
+  _background-color: #6485c1 !important;
+  
+}
+
+
+.lnav2_1 #nttdatajpn-local-nav ul li ul li.lnav2_1 a,
+.lnav2_2 #nttdatajpn-local-nav ul li ul li.lnav2_2 a,
+.lnav2_3 #nttdatajpn-local-nav ul li ul li.lnav2_3 a,
+.lnav2_4 #nttdatajpn-local-nav ul li ul li.lnav2_4 a,
+.lnav2_5 #nttdatajpn-local-nav ul li ul li.lnav2_5 a,
+.lnav2_6 #nttdatajpn-local-nav ul li ul li.lnav2_6 a,
+.lnav2_7 #nttdatajpn-local-nav ul li ul li.lnav2_7 a,
+.lnav2_8 #nttdatajpn-local-nav ul li ul li.lnav2_8 a,
+.lnav2_9 #nttdatajpn-local-nav ul li ul li.lnav2_9 a,
+.lnav2_10 #nttdatajpn-local-nav ul li ul li.lnav2_10 a,
+.lnav2_11 #nttdatajpn-local-nav ul li ul li.lnav2_11 a,
+.lnav2_12 #nttdatajpn-local-nav ul li ul li.lnav2_12 a,
+.lnav2_13 #nttdatajpn-local-nav ul li ul li.lnav2_13 a {
+  background: #6485c1 !important;
+  color: #fff;
+} 
+
+/* google検索窓 */
+#gs {
+	width: 350px;
+	float:right;
+	margin:0;
+	padding:0;}
+#gs table {
+  width: 100%;
+  margin:0 !important;
+  padding:0;
+  }
+#gs table th,
+#gs table td {
+  padding: 0 !important;
+  border: none !important;
+  }
+#gs table th {
+  background:none !important;}

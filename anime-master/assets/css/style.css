@@ -1,0 +1,39 @@
+.mb70{margin-bottom: 70px;}
+
+#goal p{
+    font-size: 14px;
+    line-height: 23px;
+}
+
+#goal h4{
+    border: none;
+    padding: inherit;
+    font-size: 28px;
+    font-weight: bold;
+    color: #6485c1;
+    text-align: center;
+    line-height: 1.2;
+}
+#goal h4 span{
+    font-size: 40px;
+}
+
+#goal h5{
+    font-size: 21px;
+    font-weight: bold;
+    color: #6485c1;
+}
+
+#goal .lead{
+    font-weight: bold;
+    text-align: center;
+}
+#goal .leftbox{
+    float: left;
+    width: 380px;
+}
+
+#goal .rightbox{
+    float: right;
+    width: 380px;
+}

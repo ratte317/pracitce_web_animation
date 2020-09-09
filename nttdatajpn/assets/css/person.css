@@ -1,0 +1,217 @@
+#nishidume .person_main {
+  background: url(../../../advantage/img/person/person_nishidume_main.jpg) no-repeat top right white;
+  padding: 275px 360px 30px 30px;
+  height: 250px; }
+#nishidume .person_rinen {
+  background: url(../../../advantage/img/person/person_nishidume_rinen.jpg) no-repeat top left #cec7c3; }
+  #nishidume .person_rinen .person_rinen_innner2 {
+    padding: 20px 30px 0px 235px;
+    width: 450px;
+    color: #fff;
+    height: 340px; }
+    #nishidume .person_rinen .person_rinen_innner2 .sm {
+      width: 250px; }
+  #nishidume .person_rinen .person_rinen_innner3 {
+    padding: 15px 30px;
+    color: #fff;
+    background: #E9A520; }
+
+#tamura .person_main {
+  background: url(../../../advantage/img/person/person_tamura_main.jpg) no-repeat bottom left #e7e1de;
+  padding: 122px 30px 0px 360px;
+  height: 363px; }
+#tamura .person_rinen {
+  background: url(../../../advantage/img/person/person_tamura_rinen.jpg) no-repeat top right #cec7c3; }
+  #tamura .person_rinen .person_rinen_innner2 {
+    padding: 15px 30px;
+    width: 450px;
+    color: #fff;
+    height: 364px; }
+  #tamura .person_rinen .person_rinen_innner3 {
+    padding: 15px 30px;
+    color: #fff;
+    background: #E9A520; }
+
+#ishii .person_main {
+  background: url(../../../advantage/img/person/person_ishii_main.jpg) no-repeat bottom left #e7e1de;
+  padding: 255px 30px 0px 360px;
+  height: 363px; }
+#ishii .person_rinen {
+  background: url(../../../advantage/img/person/person_ishii_rinen.jpg) no-repeat top right #cec7c3; }
+  #ishii .person_rinen .person_rinen_innner2 {
+    padding: 15px 30px;
+    width: 450px;
+    color: #fff;
+    height: 425px; }
+  #ishii .person_rinen .person_rinen_innner3 {
+    padding: 15px 30px;
+    color: #fff;
+    background: #E9A520; }
+
+#akagawa .person_main {
+  background: url(../../../advantage/img/person/person_akagawa_main.jpg) no-repeat top right white;
+  padding: 285px 360px 30px 30px;
+  height: 331px; }
+#akagawa .person_rinen {
+  background: url(../../../advantage/img/person/person_akagawa_rinen.jpg) no-repeat top left #cec7c3; }
+  #akagawa .person_rinen .person_rinen_innner2 {
+    padding: 20px 30px 0px 235px;
+    width: 450px;
+    color: #fff;
+    height: 617px; }
+    #akagawa .person_rinen .person_rinen_innner2 .sm {
+      width: 250px; }
+  #akagawa .person_rinen .person_rinen_innner3 {
+    padding: 15px 30px;
+    color: #fff;
+    background: #E9A520; }
+
+#toriumi .pb30 {
+    padding-bottom: 30px;
+}
+
+#toriumi .pb40 {
+    padding-bottom: 40px;
+}
+
+#toriumi .pb50 {
+    padding-bottom: 50px;
+}
+
+#toriumi .person_main {
+    background: url(../../../advantage/img/person/person_toriumi_main.jpg) no-repeat 0 0;
+    position: relative;
+    height: 516px;
+}
+
+#toriumi .person_main p {
+    position: absolute;
+    top: 270px;
+    left: 30px;
+    width: 330px;
+    font-size: 15px;
+}
+
+#toriumi .person_rinen {
+    background: url(../../../advantage/img/person/person_toriumi_rinen.jpg) no-repeat top right #cec7c3;
+}
+
+#toriumi .person_rinen .person_rinen_innner2 {
+    padding: 15px 0 15px 230px;
+    width: 469px;
+    color: #fff;
+    height: 439px;
+}
+
+#toriumi .person_rinen .person_rinen_innner3 {
+    padding: 15px 30px;
+    color: #fff;
+    background: #e9a520;
+}
+
+#hatakeyama .pb30 {
+    padding-bottom: 30px;
+}
+
+#hatakeyama .pb40 {
+    padding-bottom: 40px;
+}
+
+#hatakeyama .pb50 {
+    padding-bottom: 50px;
+}
+
+#hatakeyama .person_main {
+    background: url(../../../advantage/img/person/person_hatakeyama_main.jpg) no-repeat 0 0;
+    position: relative;
+    height: 516px;
+}
+
+#hatakeyama .person_main p {
+    position: absolute;
+    top: 290px;
+    left: 410px;
+    width: 270px;
+    font-size: 15px;
+}
+
+#hatakeyama .person_rinen {
+    background: url(../../../advantage/img/person/person_hatakeyama_rinen.jpg) no-repeat top right #cec7c3;
+}
+
+#hatakeyama .person_rinen .person_rinen_innner2 {
+    padding: 15px 30px;
+    width: 450px;
+    color: #fff;
+}
+
+#hatakeyama .person_rinen .person_rinen_innner3 {
+    padding: 15px 30px;
+    color: #fff;
+    background: #E9A520;
+}
+
+/* 山崎広美さん */
+#yamazaki .person_main{
+    background: url(../../../advantage/img/person/person_yamazaki_main.jpg) no-repeat 0 0;
+    position: relative;
+    height: 528px;
+}
+#yamazaki .person_main p {
+    position: absolute;
+    top: 290px;
+    left: 30px;
+    width: 330px;
+    font-size: 15px;
+}
+#yamazaki .person_rinen {
+    background: url(../../../advantage/img/person/person_yamazaki_rinen.jpg) no-repeat top right #cec7c3;
+}
+
+#yamazaki .person_rinen .person_rinen_innner2 {
+    padding: 15px 0 40px 230px;
+    width: 469px;
+    color: #fff;
+    /* height: 498px; */
+}
+
+#yamazaki .person_rinen .person_rinen_innner3 {
+    padding: 15px 30px;
+    color: #fff;
+    background: #e9a520;
+}
+
+/* 高尾信宏さん */
+#takao .person_main{
+    background: url(../../../advantage/img/person/person_takao_main.jpg) no-repeat 0 0;
+    position: relative;
+    height: 485px;
+}
+#takao .person_main p {
+    position: absolute;
+    top: 300px;
+    left: 30px;
+    width: 330px;
+    font-size: 15px;
+}
+#takao .person_rinen {
+    background: url(../../../advantage/img/person/person_takao_rinen.jpg) no-repeat top right #cec7c3;
+}
+
+#takao .person_rinen .person_rinen_innner2 {
+    padding: 15px 0 40px 230px;
+    width: 469px;
+    color: #fff;
+    /* height: 498px; */
+}
+
+#takao .person_rinen .person_rinen_innner3 {
+    padding: 15px 30px;
+    color: #fff;
+    background: #e9a520;
+}
+
+
+/*# sourceMappingURL=person.css.map */
+
+/*# sourceMappingURL=person.css.map */

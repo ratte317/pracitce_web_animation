@@ -1,0 +1,25 @@
+<!-- [[[ NTTDATAJPN-TOPICS-AREA ]]] -->
+
+<!-- 「お知らせ」領域を表示する場合は、このコメントを外すこと --
+
+<div id="nttdatajpn-news-area" class="nttdatajpn-structure">
+<div class="nttdatajpn-structure-content">
+
+
+<div id="nttdatajpn-news">
+
+  <p class="news_title"><img src="/nttdatajpn/assets/img/news_title.jpg" alt="お知らせ" width="84" height="40"></p>
+  <dl>
+    <dt></dt>
+    <dd>メンテナンスのため、2017/04/05 00:30～06:00の期間、本サイトは停止いたします。</dd>
+  </dl>
+
+</div>
+
+-- ここまで（直後のdivも）  -->
+
+<!-- /nttdatajpn-structure-content --><!-- </div> -->
+<!-- /nttdatajpn-structure --><!-- </div> -->
+
+
+<!-- /[[[ NTTDATAJPN-TOPICS-AREA ]]] -->

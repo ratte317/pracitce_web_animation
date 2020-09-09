@@ -1,0 +1,69 @@
+/**
+ * BxSlider v4.0 - Fully loaded, responsive content slider
+ * http://bxslider.com
+ *
+ * Written by: Steven Wanderski, 2012
+ * http://stevenwanderski.com
+ * (while drinking Belgian ales and listening to jazz)
+ *
+ * CEO and founder of bxCreative, LTD
+ * http://bxcreative.com
+ */
+
+
+/** RESET AND LAYOUT
+===================================*/
+
+.bx-wrapper1 {
+  position: relative;
+  margin: 0 auto;
+  padding: 0;
+  *zoom: 1;
+}
+/*
+.bx-wrapper1 img {
+  max-width: 100%;
+  display: block;
+}*/
+
+
+
+/* DIRECTION CONTROLS (NEXT / PREV) */
+
+.bx-wrapper1 .bx-prev {
+  left: -70px;
+  background: url(../img/controls.png) no-repeat 0 0px;
+}
+
+.bx-wrapper1 .bx-next {
+  right: -70px;
+  background: url(../img/controls.png) no-repeat -50px 0;
+}
+
+.bx-wrapper1 .bx-prev:hover {
+  background-position: 0 -65px;
+}
+
+.bx-wrapper1 .bx-next:hover {
+  background-position: -50px -65px;
+}
+
+.bx-wrapper1 .bx-controls-direction a {
+  position: absolute;
+  top: 40%;
+  margin-top: -10px;
+  outline: 0;
+  width: 50px;
+  height: 65px;
+  text-indent: -9999px;
+  z-index: 9999;
+}
+
+.bx-wrapper1 .bx-controls-direction a.disabled {
+  display: none;
+}
+
+
+
+
+

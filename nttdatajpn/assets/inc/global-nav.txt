@@ -1,0 +1,26 @@
+<!-- [[[ NTTDATAJPN-GLOBAL-NAV-AREA ]]] -->
+<div id="nttdatajpn-global-nav-area" class="nttdatajpn-structure">
+<div class="nttdatajpn-structure-content">
+<nav>
+<ul id="nttdatajpn-global-nav">
+<li class="home"><a href="/">ホーム</a></li>
+<li class="advantage"><a href="/advantage/index.html">NTTデータCCS</a>
+  <ul>
+    <li><a href="/advantage/index.html">NTTデータCCSのあゆみ</a></li>
+	<li><a href="/advantage/section.html">NTTデータCCSの2つのセクション</a></li>
+    <li><a href="/advantage/support.html">あれも？これも？NTTデータCCSの技術が支えています</a></li>
+    <li><a href="/advantage/person.html">NTTデータCCSの「中の人」に聞いてみよう</a></li>
+    <li><a href="/advantage/intro.html">NTTデータCCSの技術紹介</a></li>
+    <li><a href="/advantage/goal.html">NTTデータCCSが目指す場所</a></li>
+  </ul>
+</li>
+<li class="solution"><a href="/solution/index.html">ソリューション&amp;プロダクト</a></li>
+<li class="company"><a href="/company/index.html">会社情報</a></li>
+<li class="company_group"><a href="/company/group.html">アクセスマップ</a></li>
+<li class="recruit"><a href="/recruit/index.html">採用情報</a></li>
+<li class="contact"><a href="/contact/form.html">お問い合わせ</a></li>
+</ul>
+</nav>
+<!-- /nttdatajpn-structure-content --></div>
+<!-- /nttdatajpn-structure --></div>
+<!-- /[[[ NTTDATAJPN-GLOBAL-NAV-AREA ]]] -->

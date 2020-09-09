@@ -1,0 +1,25 @@
+<nav id="nttdatajpn-local-nav">
+<header id="nttdatajpn-local-nav-header">
+<h1><a href="/recruit/index.html">採用情報</a></h1>
+</header>
+<ul>
+<li><a href="/recruit/recruit_info03.html">採用担当からのお知らせ</a></li>
+<li>
+  <a href="/recruit/recruit_info01.html">経験者採用</a>
+  <ul>
+    <li><a href="/recruit/recruit_info01.html#part0">募集職種</a></li>
+    <li><a href="/recruit/recruit_info01.html#part3">共通採用条件</a></li>
+    <li><a href="/recruit/recruit_info01.html#part4">応募と選考の流れ</a></li>
+  </ul>
+</li>
+<li>
+</li>
+<li>
+  <a href="/recruit/recruit_info02.html">障がい者採用</a><ul>
+    <li><a href="/recruit/recruit_info02.html#part0">募集職種</a></li>
+    <li><a href="/recruit/recruit_info02.html#part3">共通採用条件</a></li>
+    <li><a href="/recruit/recruit_info02.html#part4">応募と選考の流れ</a></li>
+  </ul>
+</li>
+</ul>
+</nav>

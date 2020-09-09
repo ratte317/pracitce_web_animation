@@ -1,0 +1,270 @@
+#supportMap02 {
+  width: 715px;
+  height: 5320px;
+  background: url(/advantage/img/support/bg.jpg) no-repeat 0 0;
+  position: relative;
+  overflow: hidden;
+  /*	.pageTop{
+  		position: absolute;
+  		color:#fff;
+  		top:0;
+  		left:580px;
+  		font-size: 12px;
+  		font-weight: bold;
+  		padding-left:10px;
+  		background: url(/advantage/img/support/arrow.png) no-repeat 0 4px;
+  		display:none;
+  	}*/ }
+  #supportMap02 #waku {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 715px;
+    height: 5320px;
+    background: url(/advantage/img/support/waku.png) no-repeat 0 0; }
+  #supportMap02 div {
+    position: absolute;
+    z-index: 100; }
+    #supportMap02 div h4 {
+      border: none;
+      font-size: 15px;
+      font-weight: bold;
+      line-height: 20px;
+      padding: 0;
+      margin: 0 0 10px 0; }
+    #supportMap02 div p {
+      font-size: 13px;
+      line-height: 20px;
+      margin: 0;
+      padding: 0;
+      overflow-wrap: break-word; }
+      #supportMap02 div p a {
+        display: inline-block;
+        vertical-align: middle;
+        *vertical-align: auto;
+        *zoom: 1;
+        *display: inline;
+        padding-left: 1em;
+        text-indent: -1em; }
+    #supportMap02 div.b01 {
+      left: 205px;
+      top: 49px;
+      width: 200px; }
+    #supportMap02 div.b02 {
+      left: 426px;
+      top: 270px;
+      width: 235px; }
+    #supportMap02 div.b03 {
+      left: 53px;
+      top: 361px;
+      width: 235px; }
+    #supportMap02 div.b04 {
+      left: 387px;
+      top: 466px;
+      width: 205px; }
+    #supportMap02 div.b05 {
+      left: 126px;
+      top: 548px;
+      width: 159px; }
+    #supportMap02 div.b06 {
+      left: 241px;
+      top: 919px;
+      width: 384px; }
+    #supportMap02 div.b07 {
+      left: 483px;
+      top: 1086px;
+      width: 179px; }
+    #supportMap02 div.b08 {
+      left: 52px;
+      top: 1207px;
+      width: 138px; }
+    #supportMap02 div.b09 {
+      left: 270px;
+      top: 1270px;
+      width: 129px; }
+    #supportMap02 div.b10 {
+      left: 514px;
+      top: 1624px;
+      width: 143px; }
+    #supportMap02 div.b11 {
+      left: 270px;
+      top: 1679px;
+      width: 162px; }
+    #supportMap02 div.b12 {
+      left: 52px;
+      top: 1717px;
+      width: 135px; }
+    #supportMap02 div.b13 {
+      left: 271px;
+      top: 1913px;
+      width: 320px; }
+    #supportMap02 div.b14 {
+      left: 506px;
+      top: 2192px;
+      width: 152px; }
+    #supportMap02 div.b15 {
+      left: 280px;
+      top: 2255px;
+      width: 145px; }
+    #supportMap02 div.b16 {
+      left: 53px;
+      top: 2452px;
+      width: 150px; }
+    #supportMap02 div.b17 {
+      left: 290px;
+      top: 2690px;
+      width: 152px; }
+    #supportMap02 div.b18 {
+      left: 512px;
+      top: 2690px;
+      width: 145px; }
+    #supportMap02 div.b19 {
+      left: 52px;
+      top: 2913px;
+      width: 165px; }
+    #supportMap02 div.b20 {
+      left: 316px;
+      top: 2978px;
+      width: 321px; }
+    #supportMap02 div.b21 {
+      left: 189px;
+      top: 3292px;
+      width: 471px; }
+    #supportMap02 div.b22 {
+      left: 53px;
+      top: 3627px;
+      width: 149px; }
+    #supportMap02 div.b23 {
+      left: 276px;
+      top: 3627px;
+      width: 163px; }
+    #supportMap02 div.b24 {
+      left: 515px;
+      top: 3627px;
+      width: 145px; }
+    #supportMap02 div.b25 {
+      left: 280px;
+      top: 3931px;
+      width: 343px; }
+    #supportMap02 div.b26 {
+      left: 54px;
+      top: 4097px;
+      width: 151px; }
+    #supportMap02 div.b27 {
+      left: 277px;
+      top: 4097px;
+      width: 152px; }
+    #supportMap02 div.b28 {
+      left: 180px;
+      top: 4323px;
+      width: 483px; }
+    #supportMap02 div.b29 {
+      left: 54px;
+      top: 4624px;
+      width: 323px; }
+    #supportMap02 div.b30 {
+      left: 455px;
+      top: 4694px;
+      width: 202px; }
+    #supportMap02 div.b31 {
+      left: 54px;
+      top: 4860px;
+      width: 318px; }
+    #supportMap02 div.b32 {
+      left: 489px;
+      top: 4979px;
+      width: 170px; }
+    #supportMap02 div.b33 {
+      left: 55px;
+      top: 5102px;
+      width: 319px; }
+  #supportMap02 .pageTop {
+    position: absolute;
+    color: #fff;
+    top: 0;
+    left: 580px;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    background: url(/advantage/img/support/arrow.png) no-repeat 0 4px;
+    z-index: 9000; }
+  #supportMap02 #pt01 {
+    top: 1030px; }
+  #supportMap02 #pt02 {
+    top: 2400px; }
+  #supportMap02 #pt03 {
+    top: 3413px; }
+  #supportMap02 #pt04 {
+    top: 5246px; }
+
+#anim01 {
+  position: absolute;
+  left: 40px;
+  top: 400px; }
+
+#anim02 {
+  position: absolute;
+  left: 259px;
+  top: 415px; }
+
+#anim03 {
+  position: absolute;
+  left: 36px;
+  top: 687px; }
+
+#anim04 {
+  position: absolute;
+  left: 245px;
+  top: 1055px; }
+
+#anim05 {
+  position: absolute;
+  left: 103px;
+  top: 1450px; }
+
+#anim06 {
+  position: absolute;
+  left: 100px;
+  top: 2446px; }
+
+#anim07 {
+  position: absolute;
+  left: 370px;
+  top: 3245px; }
+
+#anim09 {
+  position: absolute;
+  left: 75px;
+  top: 3379px; }
+
+#anim10 {
+  position: absolute;
+  left: 96px;
+  top: 3464px; }
+
+#anim11 {
+  position: absolute;
+  left: 100px;
+  top: 3986px; }
+
+#anim12 {
+  position: absolute;
+  left: 60px;
+  top: 4353px; }
+
+#anim12 {
+  position: absolute;
+  left: 60px;
+  top: 4353px; }
+
+#anim13 {
+  position: absolute;
+  left: 516px;
+  top: 4566px; }
+
+#anim14 {
+  position: absolute;
+  left: 145px;
+  top: 4751px; }
+
+/*# sourceMappingURL=support.css.map */

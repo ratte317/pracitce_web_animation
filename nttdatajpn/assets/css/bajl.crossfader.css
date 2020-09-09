@@ -1,0 +1,150 @@
+@charset "Shift_JIS";
+
+/* --------------------------------------------
+ *        styles for bajl.crossfader.js
+ * -------------------------------------------- */
+
+
+/* =========== base block =========== */
+
+div.bajl-crossfader { clear:both;
+}
+
+
+/* =========== content group block =========== */
+
+.bajl-crossfader-group {
+  margin: 0;
+  padding: 0;
+}
+
+/* ----- script enabled ----- */
+
+div.bajl-crossfader-enabled   .bajl-crossfader-group {
+  position: relative;
+  overflow: hidden;
+}
+
+div.bajl-crossfader-discarded .bajl-crossfader-group {
+}
+
+
+/* ----- for print ----- */
+
+@media print {
+  div.bajl-crossfader-enabled   .bajl-crossfader-group,
+  div.bajl-crossfader-discarded .bajl-crossfader-group {
+    position: static;
+    overflow: visible;
+  }
+}
+
+
+
+/* =========== content units =========== */
+
+.bajl-crossfader-unit {
+  margin: 0 0 1em;
+  padding: 0 0 1em;
+  border-bottom: 1px dotted #ccc;
+}
+
+/* ----- script enabled ----- */
+
+div.bajl-crossfader-enabled   .bajl-crossfader-unit {
+  position: absolute;
+  z-index: 1;  /* controlled by js */
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+div.bajl-crossfader-discarded .bajl-crossfader-unit {
+  position: static;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+
+/* ----- for print ----- */
+
+@media print {
+  div.bajl-crossfader-enabled   .bajl-crossfader-unit,
+  div.bajl-crossfader-discarded .bajl-crossfader-unit {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px dotted #ccc;
+  }
+}
+
+
+
+/* =========== crossfade control buttons =========== */
+
+.bajl-crossfader-btns {
+  display: none;
+}
+
+/* ----- script enabled ----- */
+
+div.bajl-crossfader-enabled   .bajl-crossfader-btns {
+  display: block;
+}
+
+div.bajl-crossfader-discarded .bajl-crossfader-btns {
+  display: none;
+}
+
+
+/* ----- for print ----- */
+
+@media print {
+  div.bajl-crossfader-enabled .bajl-crossfader-btns {
+    display: none;
+  }
+}
+
+
+/* =========== crossfader control each buttons =========== */
+
+.bajl-crossfader-btns a,
+.bajl-crossfader-btns a:link,
+.bajl-crossfader-btns a:visited,
+.bajl-crossfader-btns a:hover,
+.bajl-crossfader-btns a:active,
+.bajl-crossfader-btns a:focus {
+  cursor: pointer;
+}
+
+.bajl-crossfader-btns .bajl-crossfader-select-btn {
+}
+
+.bajl-crossfader-btns .bajl-crossfader-select-btn a {
+}
+
+.bajl-crossfader-btns .bajl-crossfader-select-btn a.bajl-pseudo-selected {
+  cursor: default;
+}
+
+.bajl-crossfader-btns .bajl-crossfader-prev-btn {
+}
+
+.bajl-crossfader-btns .bajl-crossfader-prev-btn a {
+}
+
+.bajl-crossfader-btns .bajl-crossfader-prev-btn a.bajl-pseudo-disabled {
+  cursor: default;
+}
+
+.bajl-crossfader-btns .bajl-crossfader-next-btn {
+}
+
+.bajl-crossfader-btns .bajl-crossfader-next-btn a {
+}
+
+.bajl-crossfader-btns .bajl-crossfader-next-btn a.bajl-pseudo-disabled {
+  cursor: default;
+}

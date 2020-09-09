@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+/* -----------------------------------------------
+ *  override layout frame structure style
+ * ----------------------------------------------- */
+
+/* ----- index-A01 ----- */
+a.nttdr-heading-link {
+  margin-top: 22px;
+}
+
+/* ----- time-line-3p ----- */
+dl.nttdr-home-time-line-3p {
+  zoom: 1;
+  width: 714px;
+  margin: 17px 0 0 0;
+  padding: 0 0 5px 0;
+  font-size: 87.5%; /* 14px */
+  line-height: 1.857; /* 14px / 26px */
+  background: url(../img/home_time_line_3part_dashed_border_01.png) no-repeat bottom left;
+}
+dl.nttdr-home-time-line-3p:after {
+  content: "."; 
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+}
+dl.nttdr-home-time-line-3p dt,
+dl.nttdr-home-time-line-3p dd {
+  float: left;
+  margin: 5px 0 0 0;
+  padding: 13px 0 5px 0;
+}
+dl.nttdr-home-time-line-3p dt {
+  width: 140px;
+  margin-right: 24px;
+  font-weight: normal;
+  background: url(../img/home_time_line_dashed_border_01.png) no-repeat top left;
+}
+dl.nttdr-home-time-line-3p dt.nttdr-category {
+  width: 99px;
+}
+dl.nttdr-home-time-line-3p dd {
+  float: left;
+  width: 427px;
+  background: url(../img/home_time_line_dashed_border_01.png) no-repeat top right;
+}
+dl.nttdr-home-time-line-3p dt:first-child,
+dl.nttdr-home-time-line-3p dt:first-child + dt,
+dl.nttdr-home-time-line-3p dt:first-child + dt + dd {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  border-top: 0 none !important;
+  background: none !important;
+}
+.nttdatajpn-structure-fullcol dl.nttdr-home-time-line-3p {
+  zoom: 1;
+  width: 960px;
+  margin: 17px 0 0 0;
+  padding: 0 0 5px 0;
+  font-size: 87.5%; /* 14px */
+  line-height: 1.857; /* 14px / 26px */
+}
+.nttdatajpn-structure-fullcol dl.nttdr-home-time-line-3p dt {
+  width: 140px;
+  margin-right: 24px;
+  font-weight: normal;
+}
+.nttdatajpn-structure-fullcol dl.nttdr-home-time-line-3p dt.nttdr-category {
+  width: 99px;
+  margin-right: 24px;
+}
+.nttdatajpn-structure-fullcol dl.nttdr-home-time-line-3p dd {
+  float: left;
+  width: 673px;
+}
+dl.nttdr-home-time-line-3p a {
+  padding-right: 13px;
+  text-decoration: none;
+  background: url(../img/icon_spriteset_03.png) no-repeat scroll right -105px transparent;
+  
+  /*for ie 6 7*/
+  *padding-right: 0;
+  *display: block;
+  *padding-left: 13px;
+  *background-position: left -102px
+}
+dl.nttdr-home-time-line-3p a.nttdatajpn-pdf-link {
+  padding-left: 20px;
+  padding-right: 0;
+  padding-bottom: 1px;
+  background: url(../img/icon_spriteset_04.png) no-repeat scroll 0 -112px transparent;
+  
+}
+dl.nttdr-home-time-line-3p a:hover {
+  text-decoration: underline;
+}

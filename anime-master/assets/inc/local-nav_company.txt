@@ -1,0 +1,25 @@
+<nav id="nttdatajpn-local-nav">
+<header id="nttdatajpn-local-nav-header">
+<h1><a href="/company/index.html">会社情報</a></h1>
+</header>
+<ul>
+<li><a href="/company/index.html">ご挨拶</a></li>
+<li><a href="/company/outline.html">会社概要</a></li>
+<li><a href="/company/idea.html">経営理念</a></li>
+<li><a href="/company/history.html">沿革</a></li>
+<li><a href="/company/organization.html">組織図</a></li>
+<li><a href="/company/group.html">事業所（アクセスマップ）</a></li>
+<li><a href="/company/info_security.html">情報セキュリティ基本方針</a></li>
+<li><a href="/company/privacy_policy.html">個人情報保護方針</a></li>
+<li><a href="/company/privacy_policy_treatment.html">個人情報のお取扱いについて</a></li>
+<li><a href="/company/cookie_policy_treatment.html">クッキー（Cookie）ポリシー</a></li>
+<li><a href="/company/env_report/index.html">環境への取り組み</a>
+<ul>
+<li><a href="http://www.nttdata.com/jp/ja/corporate/csr/environment/conservation/index.html" target="_blank">環境方針（NTTデータサイト）</a></li>
+<li class="li_2line"><a href="/company/env_report/env_protect.html">環境活動への<br>
+取り組み</a></li>
+</ul>
+<li><a href="/company/csr.html">CSRへの取り組み</a></li>
+<li><a href="/company/download.html">資料ダウンロード</a></li>
+</ul>
+</nav>
